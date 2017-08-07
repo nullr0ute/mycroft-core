@@ -9,6 +9,8 @@ sudo dnf install -y \
     python-virtualenv \
     pygobject2-devel \
     python-virtualenvwrapper \
+    gcc \
+    redhat-rpm-config \
     libtool \
     libffi-devel \
     openssl-devel \
