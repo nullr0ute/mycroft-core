@@ -2,13 +2,13 @@
 
 sudo dnf install -y \
     git \
-    python \
-    python-devel \
-    python-pip \
-    python-setuptools \
-    python-virtualenv \
+    python2 \
+    python2-devel \
+    python2-pip \
+    python2-setuptools \
+    python2-virtualenv \
     pygobject2-devel \
-    python-virtualenvwrapper \
+    python2-virtualenvwrapper \
     gcc \
     redhat-rpm-config \
     libtool \
